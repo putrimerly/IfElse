@@ -111,6 +111,7 @@ public class IfElse {
             }  
         }else{                                                                                  
             System.out.println("Inputan Anda salah !!!");
+            system.out.println("silahkan isikan ulang!!");
         }
     }
 }
